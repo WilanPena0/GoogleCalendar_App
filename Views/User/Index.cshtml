@@ -1,0 +1,13 @@
+﻿@using System.Net;
+
+
+
+@{
+    var googleCalendarService = new GoogleCalendarService();
+}
+
+<div class="text-center">
+    <h1 class="display-4"></h1>
+    <p><a href="@googleCalendarService.GetAuthCode()">Clique aqui para autenticar com o Google Calendar</a></p>
+    <p><a href="https://localhost:5175/user/calendarevent">Calendario</a></p>
+</div>

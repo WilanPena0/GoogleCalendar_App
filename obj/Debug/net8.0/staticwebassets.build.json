@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EFVdq3/8ADQ9csVBZHSCpa6+2eY2kGVKIvVph0E3sTs=",
+  "Source": "GoogleCalendar_App",
+  "BasePath": "_content/GoogleCalendar_App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
